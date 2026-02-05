@@ -1,3 +1,4 @@
+![House Price Prediction Output](H-P-P.png)
 # House Price Prediction
 
 Built a machine learning model to predict house prices based on features like location, area, number of rooms, and amenities.
