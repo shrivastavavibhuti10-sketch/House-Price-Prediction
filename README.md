@@ -1,9 +1,9 @@
-# House-Price-Prediction
+# House Price Prediction
 
-This project predicts house prices using machine learning based on features like location, area, number of rooms, and amenities.
+Built a machine learning model to predict house prices based on features like location, area, number of rooms, and amenities.
 
 # Problem Statement
-House price prediction helps buyers and sellers make better decisions using historical data.
+Accurate house price prediction helps buyers and sellers make informed decisions using historical housing data.
 
 # Tools Used
 - Python
@@ -12,10 +12,15 @@ House price prediction helps buyers and sellers make better decisions using hist
 - Flask
 
 # Regression Pipeline
-- Cleaned and preprocessed the data
-- Selected important features
+- Performed data cleaning (handled missing values and outliers)
+- Applied feature selection to improve model performance
 - Trained Linear Regression and Random Forest models
-- Evaluated model performance using R² score
+- Compared models to handle linear and non-linear patterns
+- Evaluated performance using R² score
 
 # Results
-- Achieved ~80–85% R² score on test data
+- Achieved *~85% R² score*, indicating strong prediction accuracy on test data
+
+- <img width="1347" height="646" alt="S1" src="https://github.com/user-attachments/assets/b1d4e93d-8077-470c-a8c1-2407652360df" /> #PROJECT IMAGE
+- 
+
